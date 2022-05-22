@@ -5,6 +5,13 @@
   <h3> Installation🔧</h3>
 
 <p>Install all the dependencies of the package.json using the terminal</p>
+  
+  <p>You will need to login in order to see all the movies<p>
+  <p>The credentials are :</p>
+  <ul>
+    <li>email : pepe@mail.com</li>
+   <li>password : 1234 </li>
+  </ul>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm install
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
